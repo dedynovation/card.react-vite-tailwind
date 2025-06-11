@@ -11,6 +11,6 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-#Props
+### Props
 Props (short for properties) are a way to pass data from one component to another in React.
 They are used to make components reusable by allowing you to change their content or behavior based on the values you pass in.
